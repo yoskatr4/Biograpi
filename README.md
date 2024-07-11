@@ -1,3 +1,7 @@
-Basit bir Biyografi!
+# Biyografi sitesi
 
-Kodları herhangi bir kod editöründe açıp düzenleyebilirsiniz. Başlangıç projesi olduğundan çok iyi değil fakat geliştirilecek. 
+https://yoskatr4.github.io/Biograpi/ örnek site
+
+kendinize özel web sitesi 
+
+linktr ee alternatifi
